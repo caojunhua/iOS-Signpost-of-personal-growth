@@ -8,13 +8,41 @@
 ## 1. 基础能力
 
 ### （a）iOS基础
-        （a-1）UI
-  	    （a-2）网络
-        （a-3）数据库
-        （a-4）三方库
+一、UI
+
+1. UIView和CALayer的关系
+2. iOS的事件传递和视图响应链
+3. UIButton的点击范围如何变大
+4. 离屏渲染
+5. Runloop检测卡顿
+6. TableView用法及优化
+7. CollectionView用法及优化
+8. Frame和bounds区别
+9. 如何编写一个加载效果的三方库
+
+二、网络
+1. tcp/ip协议
+2. 网络缓存
+
+三、数据库
+1. SQLit
+2. realm
+3. FMDB
+4. WCDB
+
+四、三方库
+1. AFN使用及原理
+2. SDWebImage使用及原理
+3. iOS协程编程--coobjc使用及原理
+4. 组件化路由--CTMediator
+5. 组件化路由--BeeHive
+6. 七巧板--Tangram
+7. socket编程--SwiftSocket
+8. socket编程--[GCDAsyncSockety](https://github.com/robbiehanson/CocoaAsyncSocket/)
 ### （b）iOS上架打包
-	    （a-1）动态库、静态库
-	    （a-2）ipa
+一、动态库、静态库
+
+二、ipa
 
 ## 2. 进阶能力
 ### （a）算法
